@@ -9,7 +9,7 @@ public:
                 num/=2;
                 count+=1;
             }
-            else if(num%2==1)
+            else
             {
                 num-=1;
                 count+=1;
